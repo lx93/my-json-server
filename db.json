@@ -1,23 +1,6 @@
 {
     "posts":[
     {
-        "request_info": {
-            "success": true,
-            "credits_used": 3,
-            "credits_remaining": 97,
-            "credits_used_this_request": 1
-        },
-        "request_parameters": {
-            "type": "search",
-            "amazon_domain": "amazon.com",
-            "search_term": "Gaming Keyboard and Mouse Set"
-        },
-        "request_metadata": {
-            "created_at": "2023-12-30T05:29:20.320Z",
-            "processed_at": "2023-12-30T05:29:23.998Z",
-            "total_time_taken": 3.68,
-            "amazon_url": "https://www.amazon.com/s/?k=Gaming+Keyboard+and+Mouse+Set&ref=nb_sb_noss_2"
-        },
         "search_results": [
             {
                 "position": 1,
