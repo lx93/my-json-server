@@ -164,46 +164,6 @@
                     "asin": "B097TM1TP9",
                     "link": "https://www.amazon.com/Gaming-Keyboard-CHONCHOW-3600DPI-Computer/dp/B097TM1TP9/ref=sr_1_4?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-4"
                 }
-            },
-            {
-                "position": 5,
-                "title": "BlueFinger Gaming Keyboard and Mouse",
-                "asin": "B015ISUG0M",
-                "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5",
-                "recent_sales": "300+ bought in past month",
-                "brand": "BlueFinger",
-                "categories": [
-                    {
-                        "name": "All Departments",
-                        "id": "aps"
-                    }
-                ],
-                "image": "https://m.media-amazon.com/images/I/81fRHIVO5OL._AC_UY218_.jpg",
-                "coupon": {
-                    "badge_text": "Save 5%",
-                    "text": "with coupon"
-                },
-                "is_prime": true,
-                "rating": 4.4,
-                "ratings_total": 2102,
-                "prices": [
-                    {
-                        "symbol": "$",
-                        "value": 39.99,
-                        "currency": "USD",
-                        "raw": "$39.99",
-                        "asin": "B015ISUG0M",
-                        "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5"
-                    }
-                ],
-                "price": {
-                    "symbol": "$",
-                    "value": 39.99,
-                    "currency": "USD",
-                    "raw": "$39.99",
-                    "asin": "B015ISUG0M",
-                    "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5"
-                }
             }
         ]
     }
