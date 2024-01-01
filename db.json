@@ -131,7 +131,7 @@
             },
             {
                 "position": 4,
-                "title": "CHONCHOW Gaming Keyboard and Mouse Combo,USB Wired 104-Keys Full Size Light Up Keyboard Mic 3600DPI Rainbow Backlit Mechanical Feeling Compatible with PC Xbox Mac OS Game and Work",
+                "title": "CHONCHOW Gaming Keyboard and Mouse Combo",
                 "asin": "B097TM1TP9",
                 "link": "https://www.amazon.com/Gaming-Keyboard-CHONCHOW-3600DPI-Computer/dp/B097TM1TP9/ref=sr_1_4?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-4",
                 "recent_sales": "300+ bought in past month",
@@ -167,7 +167,7 @@
             },
             {
                 "position": 5,
-                "title": "BlueFinger Gaming Keyboard and Mouse,USB Wired Backlit Gaming Mouse and Keyboard Combo,Letters Glow, 3 Color Crack Backlit,Illumination Keyboard and Mouse Set for Game and Work",
+                "title": "BlueFinger Gaming Keyboard and Mouse",
                 "asin": "B015ISUG0M",
                 "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5",
                 "recent_sales": "300+ bought in past month",
@@ -203,46 +203,6 @@
                     "raw": "$39.99",
                     "asin": "B015ISUG0M",
                     "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5"
-                }
-            },
-            {
-                "position": 6,
-                "title": "CHONCHOW 87 Keys TKL Gaming Keyboard and Mouse Combo, Wired LED Rainbow Backlit Keyboard 800-3200 DPI RGB Mouse, Gaming for PS4 Xbox PC Laptop Mac",
-                "asin": "B07YHSTNJP",
-                "link": "https://www.amazon.com/Keyboard-CHONCHOW-Rainbow-Backlit-Windows/dp/B07YHSTNJP/ref=sr_1_6?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-6",
-                "recent_sales": "1K+ bought in past month",
-                "brand": "CHONCHOW",
-                "categories": [
-                    {
-                        "name": "All Departments",
-                        "id": "aps"
-                    }
-                ],
-                "image": "https://m.media-amazon.com/images/I/81892WHJ+PL._AC_UY218_.jpg",
-                "coupon": {
-                    "badge_text": "Save 10%",
-                    "text": "with coupon"
-                },
-                "is_prime": true,
-                "rating": 4.3,
-                "ratings_total": 2687,
-                "prices": [
-                    {
-                        "symbol": "$",
-                        "value": 29.99,
-                        "currency": "USD",
-                        "raw": "$29.99",
-                        "asin": "B07YHSTNJP",
-                        "link": "https://www.amazon.com/Keyboard-CHONCHOW-Rainbow-Backlit-Windows/dp/B07YHSTNJP/ref=sr_1_6?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-6"
-                    }
-                ],
-                "price": {
-                    "symbol": "$",
-                    "value": 29.99,
-                    "currency": "USD",
-                    "raw": "$29.99",
-                    "asin": "B07YHSTNJP",
-                    "link": "https://www.amazon.com/Keyboard-CHONCHOW-Rainbow-Backlit-Windows/dp/B07YHSTNJP/ref=sr_1_6?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-6"
                 }
             }
         ]
