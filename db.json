@@ -1,0 +1,1533 @@
+{
+    "request_info": {
+        "success": true,
+        "credits_used": 3,
+        "credits_remaining": 97,
+        "credits_used_this_request": 1
+    },
+    "request_parameters": {
+        "type": "search",
+        "amazon_domain": "amazon.com",
+        "search_term": "Gaming Keyboard and Mouse Set"
+    },
+    "request_metadata": {
+        "created_at": "2023-12-30T05:29:20.320Z",
+        "processed_at": "2023-12-30T05:29:23.998Z",
+        "total_time_taken": 3.68,
+        "amazon_url": "https://www.amazon.com/s/?k=Gaming+Keyboard+and+Mouse+Set&ref=nb_sb_noss_2"
+    },
+    "search_results": [
+        {
+            "position": 1,
+            "title": "Redragon S101 Gaming Keyboard, M601 Mouse, RGB Backlit Gaming Keyboard, Programmable Backlit Gaming Mouse, Value Combo Set [New Version]",
+            "asin": "B00NLZUM36",
+            "link": "https://www.amazon.com/Redragon-S101-Keyboard-Ergonomic-Programmable/dp/B00NLZUM36/ref=sr_1_1?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-1",
+            "recent_sales": "3K+ bought in past month",
+            "brand": "Redragon",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71QDJHG1PqL._AC_UY218_.jpg",
+            "coupon": {
+                "badge_text": "Save 20%",
+                "text": "with coupon"
+            },
+            "is_prime": true,
+            "rating": 4.6,
+            "ratings_total": 44791,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 44.99,
+                    "currency": "USD",
+                    "raw": "$44.99",
+                    "name": "Primary",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "$",
+                    "value": 51.99,
+                    "currency": "USD",
+                    "raw": "$51.99",
+                    "name": "Original",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 44.99,
+                "currency": "USD",
+                "raw": "$44.99",
+                "name": "Primary",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 2,
+            "title": "FANTECH P51S Gaming Keyboard and Mouse Combo, Gaming Headset and Headphone Stand Gaming Mouse Pad Wired RGB Rainbow Backlight PC Gamer Basic 5 in-1 Gaming Set",
+            "asin": "B0CGRHP86H",
+            "link": "https://www.amazon.com/FANTECH-Keyboard-Headset-Headphone-Backlight/dp/B0CGRHP86H/ref=sr_1_2?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-2",
+            "recent_sales": "200+ bought in past month",
+            "brand": "FANTECH",
+            "availability": {
+                "raw": "Only 20 left in stock - order soon."
+            },
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71r9YDtkoQL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 1381,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 39.99,
+                    "currency": "USD",
+                    "raw": "$39.99",
+                    "asin": "B0CGRHP86H",
+                    "link": "https://www.amazon.com/FANTECH-Keyboard-Headset-Headphone-Backlight/dp/B0CGRHP86H/ref=sr_1_2?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-2"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "USD",
+                "raw": "$39.99",
+                "asin": "B0CGRHP86H",
+                "link": "https://www.amazon.com/FANTECH-Keyboard-Headset-Headphone-Backlight/dp/B0CGRHP86H/ref=sr_1_2?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-2"
+            }
+        },
+        {
+            "position": 3,
+            "title": "Soundbot SportsBot SS301 Blue LED Gaming Over-Ear Headset Headphone, Keyboard & Mouse Combo Set w/ 40mm Speaker Driver, Microphone, Multimedia Keys & Window Key Lock, 4 DPI Levels (BLU)",
+            "asin": "B018T5Y9YA",
+            "link": "https://www.amazon.com/SportsBot-Over-Ear-Headphone-Microphone-Multimedia/dp/B018T5Y9YA/ref=sr_1_3?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-3",
+            "recent_sales": "500+ bought in past month",
+            "brand": "Soundbot",
+            "availability": {
+                "raw": "Only 8 left in stock - order soon."
+            },
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81uFwqr4N-L._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.2,
+            "ratings_total": 3089,
+            "is_small_business": true,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 25.99,
+                    "currency": "USD",
+                    "raw": "$25.99",
+                    "asin": "B018T5Y9YA",
+                    "link": "https://www.amazon.com/SportsBot-Over-Ear-Headphone-Microphone-Multimedia/dp/B018T5Y9YA/ref=sr_1_3?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-3"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 25.99,
+                "currency": "USD",
+                "raw": "$25.99",
+                "asin": "B018T5Y9YA",
+                "link": "https://www.amazon.com/SportsBot-Over-Ear-Headphone-Microphone-Multimedia/dp/B018T5Y9YA/ref=sr_1_3?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-3"
+            }
+        },
+        {
+            "position": 4,
+            "title": "CHONCHOW Gaming Keyboard and Mouse Combo,USB Wired 104-Keys Full Size Light Up Keyboard Mic 3600DPI Rainbow Backlit Mechanical Feeling Compatible with PC Xbox Mac OS Game and Work",
+            "asin": "B097TM1TP9",
+            "link": "https://www.amazon.com/Gaming-Keyboard-CHONCHOW-3600DPI-Computer/dp/B097TM1TP9/ref=sr_1_4?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-4",
+            "recent_sales": "300+ bought in past month",
+            "brand": "CHONCHOW",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61WU2toWHxL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 544,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 23.99,
+                    "currency": "USD",
+                    "raw": "$23.99",
+                    "asin": "B097TM1TP9",
+                    "link": "https://www.amazon.com/Gaming-Keyboard-CHONCHOW-3600DPI-Computer/dp/B097TM1TP9/ref=sr_1_4?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-4"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 23.99,
+                "currency": "USD",
+                "raw": "$23.99",
+                "asin": "B097TM1TP9",
+                "link": "https://www.amazon.com/Gaming-Keyboard-CHONCHOW-3600DPI-Computer/dp/B097TM1TP9/ref=sr_1_4?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-4"
+            }
+        },
+        {
+            "position": 5,
+            "title": "BlueFinger Gaming Keyboard and Mouse,USB Wired Backlit Gaming Mouse and Keyboard Combo,Letters Glow, 3 Color Crack Backlit,Illumination Keyboard and Mouse Set for Game and Work",
+            "asin": "B015ISUG0M",
+            "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5",
+            "recent_sales": "300+ bought in past month",
+            "brand": "BlueFinger",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81fRHIVO5OL._AC_UY218_.jpg",
+            "coupon": {
+                "badge_text": "Save 5%",
+                "text": "with coupon"
+            },
+            "is_prime": true,
+            "rating": 4.4,
+            "ratings_total": 2102,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 39.99,
+                    "currency": "USD",
+                    "raw": "$39.99",
+                    "asin": "B015ISUG0M",
+                    "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 39.99,
+                "currency": "USD",
+                "raw": "$39.99",
+                "asin": "B015ISUG0M",
+                "link": "https://www.amazon.com/Keyboard-BlueFinger-Computer-Customized-Mousepad/dp/B015ISUG0M/ref=sr_1_5?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-5"
+            }
+        },
+        {
+            "position": 6,
+            "title": "CHONCHOW 87 Keys TKL Gaming Keyboard and Mouse Combo, Wired LED Rainbow Backlit Keyboard 800-3200 DPI RGB Mouse, Gaming for PS4 Xbox PC Laptop Mac",
+            "asin": "B07YHSTNJP",
+            "link": "https://www.amazon.com/Keyboard-CHONCHOW-Rainbow-Backlit-Windows/dp/B07YHSTNJP/ref=sr_1_6?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-6",
+            "recent_sales": "1K+ bought in past month",
+            "brand": "CHONCHOW",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81892WHJ+PL._AC_UY218_.jpg",
+            "coupon": {
+                "badge_text": "Save 10%",
+                "text": "with coupon"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 2687,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 29.99,
+                    "currency": "USD",
+                    "raw": "$29.99",
+                    "asin": "B07YHSTNJP",
+                    "link": "https://www.amazon.com/Keyboard-CHONCHOW-Rainbow-Backlit-Windows/dp/B07YHSTNJP/ref=sr_1_6?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-6"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 29.99,
+                "currency": "USD",
+                "raw": "$29.99",
+                "asin": "B07YHSTNJP",
+                "link": "https://www.amazon.com/Keyboard-CHONCHOW-Rainbow-Backlit-Windows/dp/B07YHSTNJP/ref=sr_1_6?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-6"
+            }
+        },
+        {
+            "position": 7,
+            "title": "Gaming Keyboard and Mouse and Mouse pad and Gaming Headset, Wired LED RGB Backlight Bundle for PC Gamers and Xbox and PS4 Users - 4 in 1 Edition Hornet RX-250",
+            "asin": "B07TVK8WJP",
+            "link": "https://www.amazon.com/Gaming-Keyboard-Headset-Backlight-Bundle/dp/B07TVK8WJP/ref=sr_1_7?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-7",
+            "recent_sales": "9K+ bought in past month",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71S-pQNQyIL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.com/gp/goldbox/",
+                "badge_text": "Limited time deal"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 18424,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 35.99,
+                    "currency": "USD",
+                    "raw": "$35.99",
+                    "name": "Limited time deal",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "$",
+                    "value": 39.99,
+                    "currency": "USD",
+                    "raw": "$39.99",
+                    "name": "Limited time deal",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 35.99,
+                "currency": "USD",
+                "raw": "$35.99",
+                "name": "Limited time deal",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 8,
+            "title": "Rii RK400 RGB Gaming Keyboard and Mouse Combo ,Wired Mechanical Feel 3-LED Backlit Keyboard,104 Keys USB Ergonomic Wrist Rest Keyboard,6 Button RGB Mouse for Windows Gamer Desktop, Computer (Black)",
+            "asin": "B08HPS3RWK",
+            "link": "https://www.amazon.com/Rii-Keyboard-Mechanical-Ergonomic-Computer/dp/B08HPS3RWK/ref=sr_1_8?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-8",
+            "recent_sales": "1K+ bought in past month",
+            "brand": "Rii",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71RbejAWyzL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 889,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 25.99,
+                    "currency": "USD",
+                    "raw": "$25.99",
+                    "asin": "B08HPS3RWK",
+                    "link": "https://www.amazon.com/Rii-Keyboard-Mechanical-Ergonomic-Computer/dp/B08HPS3RWK/ref=sr_1_8?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-8"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 25.99,
+                "currency": "USD",
+                "raw": "$25.99",
+                "asin": "B08HPS3RWK",
+                "link": "https://www.amazon.com/Rii-Keyboard-Mechanical-Ergonomic-Computer/dp/B08HPS3RWK/ref=sr_1_8?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-8"
+            }
+        },
+        {
+            "position": 9,
+            "title": "CHONCHOW LED Keyboard and Mouse, 104 Keys Rainbow Backlit Keyboard and 7 Color RGB Mouse, White Gaming Keyboard and Mouse Combo for PC Laptop Xbox PS4 Gamers and Work",
+            "asin": "B09BFSKDHT",
+            "link": "https://www.amazon.com/CHONCHOW-Keyboard-Rainbow-Backlit-Gaming/dp/B09BFSKDHT/ref=sr_1_9?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-9",
+            "recent_sales": "1K+ bought in past month",
+            "brand": "CHONCHOW",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/61PUrOCDZWL._AC_UY218_.jpg",
+            "coupon": {
+                "badge_text": "Save 15%",
+                "text": "with coupon"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 1157,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 29.99,
+                    "currency": "USD",
+                    "raw": "$29.99",
+                    "asin": "B09BFSKDHT",
+                    "link": "https://www.amazon.com/CHONCHOW-Keyboard-Rainbow-Backlit-Gaming/dp/B09BFSKDHT/ref=sr_1_9?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-9"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 29.99,
+                "currency": "USD",
+                "raw": "$29.99",
+                "asin": "B09BFSKDHT",
+                "link": "https://www.amazon.com/CHONCHOW-Keyboard-Rainbow-Backlit-Gaming/dp/B09BFSKDHT/ref=sr_1_9?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-9"
+            }
+        },
+        {
+            "position": 10,
+            "title": "60% Gaming Keyboard and Mouse Combo Samll Mini RGB Backlight Mechanical Feeling and Honeycomb Optical Mouse, Mouse pad for Gamers and Typists",
+            "asin": "B09DP7X334",
+            "link": "https://www.amazon.com/Keyboard-Backlight-Mechanical-Feeling-Honeycomb/dp/B09DP7X334/ref=sr_1_10?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-10",
+            "recent_sales": "100+ bought in past month",
+            "availability": {
+                "raw": "Only 13 left in stock - order soon."
+            },
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81B8+F7TyCL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.2,
+            "ratings_total": 965,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 42.99,
+                    "currency": "USD",
+                    "raw": "$42.99",
+                    "asin": "B09DP7X334",
+                    "link": "https://www.amazon.com/Keyboard-Backlight-Mechanical-Feeling-Honeycomb/dp/B09DP7X334/ref=sr_1_10?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-10"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 42.99,
+                "currency": "USD",
+                "raw": "$42.99",
+                "asin": "B09DP7X334",
+                "link": "https://www.amazon.com/Keyboard-Backlight-Mechanical-Feeling-Honeycomb/dp/B09DP7X334/ref=sr_1_10?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-10"
+            }
+        },
+        {
+            "position": 11,
+            "title": "Typewriter Mechanical Gaming Keyboard with Mouse, Metal Panel Retro Keyboard with Round Keycap Blue Switch, RGB Backlit 104 Keys Anti-Ghost Wired Keyboard Mouse and Pad Combo for PC Laptop Mac Gamer",
+            "asin": "B0C2TZXTCF",
+            "link": "https://www.amazon.com/Typewriter-Mechanical-Keyboard-Backlit-Anti-Ghost/dp/B0C2TZXTCF/ref=sr_1_11?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-11",
+            "recent_sales": "400+ bought in past month",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81YJRo1ikJL._AC_UY218_.jpg",
+            "coupon": {
+                "badge_text": "Save $10.00",
+                "text": "with coupon"
+            },
+            "is_prime": true,
+            "rating": 4.7,
+            "ratings_total": 35,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 49.99,
+                    "currency": "USD",
+                    "raw": "$49.99",
+                    "asin": "B0C2TZXTCF",
+                    "link": "https://www.amazon.com/Typewriter-Mechanical-Keyboard-Backlit-Anti-Ghost/dp/B0C2TZXTCF/ref=sr_1_11?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-11"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 49.99,
+                "currency": "USD",
+                "raw": "$49.99",
+                "asin": "B0C2TZXTCF",
+                "link": "https://www.amazon.com/Typewriter-Mechanical-Keyboard-Backlit-Anti-Ghost/dp/B0C2TZXTCF/ref=sr_1_11?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-11"
+            }
+        },
+        {
+            "position": 12,
+            "title": "Dacoity Gaming Keyboard and Mouse Combo, 104 Keys All-Metal Panel Light Up Silent Computer Keyboard, Wrist Rest, LED Backlit 4200 DPI Gaming Mouse, Wired Keyboard Mouse Set for PC MAC Xbox Gamer",
+            "asin": "B0BZ7XVF3M",
+            "link": "https://www.amazon.com/Dacoity-Keyboard-All-Metal-Computer-Backlit/dp/B0BZ7XVF3M/ref=sr_1_12?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-12",
+            "recent_sales": "500+ bought in past month",
+            "brand": "Dacoity",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71O8k2jycuL._AC_UY218_.jpg",
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 2358,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 45.99,
+                    "currency": "USD",
+                    "raw": "$45.99",
+                    "asin": "B0BZ7XVF3M",
+                    "link": "https://www.amazon.com/Dacoity-Keyboard-All-Metal-Computer-Backlit/dp/B0BZ7XVF3M/ref=sr_1_12?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-12"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 45.99,
+                "currency": "USD",
+                "raw": "$45.99",
+                "asin": "B0BZ7XVF3M",
+                "link": "https://www.amazon.com/Dacoity-Keyboard-All-Metal-Computer-Backlit/dp/B0BZ7XVF3M/ref=sr_1_12?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-12"
+            }
+        },
+        {
+            "position": 13,
+            "title": "RedThunder K10 Wireless Gaming Keyboard and Mouse Combo, LED Backlit Rechargeable 3800mAh Battery, Mechanical Feel Anti-ghosting Keyboard + 7D 3200DPI Mice for PC Gamer (Black)",
+            "asin": "B09BR46F63",
+            "link": "https://www.amazon.com/RedThunder-Wireless-Rechargeable-Mechanical-Anti-ghosting/dp/B09BR46F63/ref=sr_1_13?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-13",
+            "recent_sales": "6K+ bought in past month",
+            "brand": "RedThunder",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/717IaZVyToL._AC_UY218_.jpg",
+            "deal": {
+                "link": "https://www.amazon.com/gp/goldbox/",
+                "badge_text": "Limited time deal"
+            },
+            "rating": 4,
+            "ratings_total": 3840,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 44.79,
+                    "currency": "USD",
+                    "raw": "$44.79",
+                    "name": "Limited time deal",
+                    "is_primary": true
+                },
+                {
+                    "symbol": "$",
+                    "value": 79.99,
+                    "currency": "USD",
+                    "raw": "$79.99",
+                    "name": "Limited time deal",
+                    "is_rrp": true
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 44.79,
+                "currency": "USD",
+                "raw": "$44.79",
+                "name": "Limited time deal",
+                "is_primary": true
+            }
+        },
+        {
+            "position": 14,
+            "title": "Wireless Gaming Keyboard Mouse Bluetooth Headset Kit with 16 RGB Backlit Rechargeable Battery Metal Mechanical Ergonomic Waterproof Dustproof Removable Palm Rest for Laptop PC Gamer(Rainbow RGB)",
+            "asin": "B08CD9THXG",
+            "link": "https://www.amazon.com/Bluetooth-Rechargeable-Mechanical-Ergonomic-Waterproof/dp/B08CD9THXG/ref=sr_1_14?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-14",
+            "recent_sales": "100+ bought in past month",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/81iqkzSxT3L._AC_UY218_.jpg",
+            "rating": 4.1,
+            "ratings_total": 622,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 95.99,
+                    "currency": "USD",
+                    "raw": "$95.99",
+                    "asin": "B08CD9THXG",
+                    "link": "https://www.amazon.com/Bluetooth-Rechargeable-Mechanical-Ergonomic-Waterproof/dp/B08CD9THXG/ref=sr_1_14?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-14"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 95.99,
+                "currency": "USD",
+                "raw": "$95.99",
+                "asin": "B08CD9THXG",
+                "link": "https://www.amazon.com/Bluetooth-Rechargeable-Mechanical-Ergonomic-Waterproof/dp/B08CD9THXG/ref=sr_1_14?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-14"
+            }
+        },
+        {
+            "position": 15,
+            "title": "Keyboard and Mouse Combo, FEDARFOX Compact Full Size Gaming Rainbow Keyboard and Mouse Set Backlit Illuminated Mice Mechanical Keyboard for Windows, Computer, Desktop, PC, Notebook (Black)",
+            "asin": "B09Q34N5DK",
+            "link": "https://www.amazon.com/Gaming-Keyboard-Mouse-Illuminated-Mechanical/dp/B09Q34N5DK/ref=sr_1_15?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-15",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71RnNnf4f6L._AC_UY218_.jpg",
+            "coupon": {
+                "badge_text": "Save 10%",
+                "text": "with coupon"
+            },
+            "is_prime": true,
+            "rating": 4.3,
+            "ratings_total": 141,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 33.99,
+                    "currency": "USD",
+                    "raw": "$33.99",
+                    "asin": "B09Q34N5DK",
+                    "link": "https://www.amazon.com/Gaming-Keyboard-Mouse-Illuminated-Mechanical/dp/B09Q34N5DK/ref=sr_1_15?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-15"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 33.99,
+                "currency": "USD",
+                "raw": "$33.99",
+                "asin": "B09Q34N5DK",
+                "link": "https://www.amazon.com/Gaming-Keyboard-Mouse-Illuminated-Mechanical/dp/B09Q34N5DK/ref=sr_1_15?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-15"
+            }
+        },
+        {
+            "position": 16,
+            "title": "RGB 87 Keys Gaming Keyboard and Backlit Mouse Combo,BlueFinger USB Wired Rainbow Keyboard,Gaming Keyboard Set for Laptop PC Computer Game and Work",
+            "asin": "B07R7P6WTF",
+            "link": "https://www.amazon.com/Keyboard-Backlit-BlueFinger-Rainbow-Computer/dp/B07R7P6WTF/ref=sr_1_16?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-16",
+            "recent_sales": "500+ bought in past month",
+            "categories": [
+                {
+                    "name": "All Departments",
+                    "id": "aps"
+                }
+            ],
+            "image": "https://m.media-amazon.com/images/I/71Ezwm3vWJL._AC_UY218_.jpg",
+            "coupon": {
+                "badge_text": "Save 20%",
+                "text": "with coupon"
+            },
+            "is_prime": true,
+            "rating": 4.5,
+            "ratings_total": 3457,
+            "prices": [
+                {
+                    "symbol": "$",
+                    "value": 29.99,
+                    "currency": "USD",
+                    "raw": "$29.99",
+                    "asin": "B07R7P6WTF",
+                    "link": "https://www.amazon.com/Keyboard-Backlit-BlueFinger-Rainbow-Computer/dp/B07R7P6WTF/ref=sr_1_16?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-16"
+                }
+            ],
+            "price": {
+                "symbol": "$",
+                "value": 29.99,
+                "currency": "USD",
+                "raw": "$29.99",
+                "asin": "B07R7P6WTF",
+                "link": "https://www.amazon.com/Keyboard-Backlit-BlueFinger-Rainbow-Computer/dp/B07R7P6WTF/ref=sr_1_16?keywords=Gaming+Keyboard+and+Mouse+Set&qid=1703914161&sr=8-16"
+            }
+        }
+    ],
+    "category_information": {
+        "is_landing_page": false
+    },
+    "related_searches": [
+        {
+            "query": "gaming keyboard",
+            "link": "https://www.amazon.com/s/?k=gaming+keyboard&ref=sugsr_0&pd_rd_w=V0HJV&content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736:amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=PKZAj&pd_rd_r=f5da8725-ce5c-40aa-8f61-e6a42e607197&qid=1703914161"
+        },
+        {
+            "query": "keyboard and mouse set",
+            "link": "https://www.amazon.com/s/?k=keyboard+and+mouse+set&ref=sugsr_3&pd_rd_w=V0HJV&content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736:amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=PKZAj&pd_rd_r=f5da8725-ce5c-40aa-8f61-e6a42e607197&qid=1703914161"
+        },
+        {
+            "query": "gaming keyboard and mouse",
+            "link": "https://www.amazon.com/s/?k=gaming+keyboard+and+mouse&ref=sugsr_1&pd_rd_w=V0HJV&content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736:amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=PKZAj&pd_rd_r=f5da8725-ce5c-40aa-8f61-e6a42e607197&qid=1703914161"
+        },
+        {
+            "query": "gaming desk",
+            "link": "https://www.amazon.com/s/?k=gaming+desk&ref=sugsr_4&pd_rd_w=V0HJV&content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736:amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=PKZAj&pd_rd_r=f5da8725-ce5c-40aa-8f61-e6a42e607197&qid=1703914161"
+        },
+        {
+            "query": "gaming mouse",
+            "link": "https://www.amazon.com/s/?k=gaming+mouse&ref=sugsr_2&pd_rd_w=V0HJV&content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736:amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=PKZAj&pd_rd_r=f5da8725-ce5c-40aa-8f61-e6a42e607197&qid=1703914161"
+        },
+        {
+            "query": "gaming mouse pad",
+            "link": "https://www.amazon.com/s/?k=gaming+mouse+pad&ref=sugsr_5&pd_rd_w=V0HJV&content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736:amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=PKZAj&pd_rd_r=f5da8725-ce5c-40aa-8f61-e6a42e607197&qid=1703914161"
+        }
+    ],
+    "related_brands": [
+        {
+            "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e37ed41a-f6e8-4232-9d89-63217fcdfabb._CR0,0,2400,1256_SX460_QL70_.png"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8cba515f-10b2-4b17-a70e-96f4d846256b._CR0,442,2100,1099_SX460_QL70_.jpg"
+        },
+        {
+            "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b8d7750a-0c66-4455-842e-769eee392372._CR0,0,1200,628_SX460_QL70_.jpg"
+        }
+    ],
+    "pagination": {
+        "total_results": 10000,
+        "current_page": 1,
+        "next_page_link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&page=2&qid=1703914161&ref=sr_pg_2",
+        "total_pages": 20
+    },
+    "refinements": {
+        "prime": [
+            {
+                "name": "Free Shipping by Amazon",
+                "value": "n:468642||p_76/1249140011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_76%3A1249140011&dc&qid=1703914161&rnid=1249138011&ref=sr_nr_p_76_1&ds=v1%3AcCX2oiyA4D%2FKaIXJaKWZGwN7ZjEEm%2B%2B1GIlDZztgUpY",
+                "refinement_display_name": "Prime"
+            }
+        ],
+        "departments": [
+            {
+                "name": "PC Gaming Keyboards",
+                "value": "n/402051011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3A%2FcnTjvffL58ZBLfSwiMrtGHnnVdkOQJsS1GcmXyRtAE",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Mac Accessories",
+                "value": "n/318812011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A318812011&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3A4WUEZRpjpJYvdx0wtLWELPcFIpJf3wBshNMmrkbOIGE",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Mac Gaming Keyboards",
+                "value": "n/405591011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A318812011%2Cn%3A405591011&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3AxuWGs6tf92c7Tne7QHqb3mCq8vDoGSEqpHUsswfqPv8",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "PlayStation 4 Accessories",
+                "value": "n/6427815011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A6427815011&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3AR1An0IV7HCfSYb6ImdgTvHBdWvCw7g7D7YC4dySc1uE",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Xbox One Accessories",
+                "value": "n/6469270011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A6469270011&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3ANindkFOJnZFwyjhIeOhSCqSUpA2iXl%2F5WtQ2b1GOgj4",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Computer Keyboard & Mouse Combos",
+                "value": "n/1194464",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A1194464&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3AgP0ZN1TCTpq6OaBenQWSS7p6xDcSQEL0k5ZRlKh0I8M",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "PC Gaming Mice",
+                "value": "n/402052011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402052011&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3AGC6dxerR1s7oieV7B1RCXxUlLY%2FHQSNsi%2BdScPlu%2BYc",
+                "refinement_display_name": "Departments"
+            },
+            {
+                "name": "Xbox Accessories",
+                "value": "n/353831011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A353831011&dc&qid=1703914161&rnid=2941120011&ref=sr_nr_n_8&ds=v1%3Axn5hFE4APbLzeCQAroTEaXCYspBdczBXtnMkIm%2F1hWc",
+                "refinement_display_name": "Departments"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "4 Stars & Up",
+                "value": "n:468642||p_72/1248885011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_72%3A1248885011&dc&qid=1703914161&rnid=1248883011&ref=sr_nr_p_72_1&ds=v1%3A9E6Ne3vMNXxIHICqNnmw26B0%2BRX8%2Bk6kutR7vZvu1%2Fw",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "3 Stars & Up",
+                "value": "n:468642||p_72/1248886011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_72%3A1248886011&dc&qid=1703914161&rnid=1248883011&ref=sr_nr_p_72_2&ds=v1%3ADN2FMyQGGxG5iRq8%2BW9%2BH1C4Oj2c3NCKhEKhu2t9vm8",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "2 Stars & Up",
+                "value": "n:468642||p_72/1248887011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_72%3A1248887011&dc&qid=1703914161&rnid=1248883011&ref=sr_nr_p_72_3&ds=v1%3AB6hWmRdXRm27l%2FFXDv3MjU7XgSpcmMQuIvwsvXIVLpU",
+                "refinement_display_name": "Reviews"
+            },
+            {
+                "name": "1 Star & Up",
+                "value": "n:468642||p_72/1248888011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_72%3A1248888011&dc&qid=1703914161&rnid=1248883011&ref=sr_nr_p_72_4&ds=v1%3A8mTXutgTKRfpHbEfFhtbgDDmR%2Fo0VcpdRvqYQBgxJNw",
+                "refinement_display_name": "Reviews"
+            }
+        ],
+        "price": [
+            {
+                "name": "Under $10",
+                "value": "n:468642||p_36/2422977011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_36%3A2422977011&dc&qid=1703914161&rnid=386453011&ref=sr_nr_p_36_1&ds=v1%3A3llZxnCexx00%2FLVNs%2BpdZJzaQ10slsomDCni5dqDyTo",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "$10 to $15",
+                "value": "n:468642||p_36/2422978011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_36%3A2422978011&dc&qid=1703914161&rnid=386453011&ref=sr_nr_p_36_2&ds=v1%3A%2FfADMPo71G%2FQ9Ca9S5XVeyVS4cmPqmAYWyFsolP5N4Y",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "$15 to $25",
+                "value": "n:468642||p_36/515384011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_36%3A515384011&dc&qid=1703914161&rnid=386453011&ref=sr_nr_p_36_3&ds=v1%3AuO4xrE7hkR8SR7gQgfvCCMrGUcXIeG%2FJ4ytJeoBRIRo",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "$25 to $35",
+                "value": "n:468642||p_36/492781011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_36%3A492781011&dc&qid=1703914161&rnid=386453011&ref=sr_nr_p_36_4&ds=v1%3AYCJorkzCoPT0JMJLzvj%2Fl3UgIDz0Ypl82dY7M8kMNwI",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "$35 & Above",
+                "value": "n:468642||p_36/2422979011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_36%3A2422979011&dc&qid=1703914161&rnid=386453011&ref=sr_nr_p_36_5&ds=v1%3AQW0lww%2BfXP18AnGLWgjUxPDIjpaM8LHMI5KNN%2Fboh2g",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "$        $            Go",
+                "value": "p_36/price-range",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "All Discounts",
+                "value": "p_n_deal_type/23566065011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=p_n_deal_type%3A23566065011&dc&qid=1703914161&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3ALMrcs81DmilUqfAHH%2BFimqlo3U8485E%2B3QQAonIydWw",
+                "refinement_display_name": "Price"
+            },
+            {
+                "name": "Today's Deals",
+                "value": "p_n_deal_type/23566064011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=p_n_deal_type%3A23566064011&dc&qid=1703914161&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3Ae%2BYvPmqVwF2JYZQwmYvRhIi3ssl3HhcipnR5yFk5eeI",
+                "refinement_display_name": "Price"
+            }
+        ],
+        "brand": [
+            {
+                "name": "CHONCHOW",
+                "value": "n:468642||p_89/CHONCHOW",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ACHONCHOW&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_1&ds=v1%3AINfkvOkLMLZdYVfbiwBgC%2B9Ysdp4CZ7ypkrusfuz0Tg",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Orzly",
+                "value": "n:468642||p_89/Orzly",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3AOrzly&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_2&ds=v1%3ADpfpGCCIFY%2Fpg%2F8d4Lc5ws9yciFyiHnISsV0KpTx29o",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "FANTECH",
+                "value": "n:468642||p_89/FANTECH",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3AFANTECH&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_3&ds=v1%3A6V6NiZbZDapYUs7PDTS%2Bv%2BWnV2GQg9R21a%2FLkgjEt0A",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "SteelSeries",
+                "value": "n:468642||p_89/SteelSeries",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ASteelSeries&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_4&ds=v1%3Agf3Ves%2F0bIaIzm8ZjY%2B7bWEn%2FRHGdrS435L4FLzZXFs",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Rii",
+                "value": "n:468642||p_89/Rii",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ARii&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_5&ds=v1%3A2rRV%2FJlVfCm2547LR%2FpTkLjK%2FPaK4zogE0NlEjbeVfo",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Taiahiro",
+                "value": "n:468642||p_89/Taiahiro",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ATaiahiro&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_6&ds=v1%3A5jBBtMBWCEcrXknZUAVmJqJlvKCSPt9Bi8bc9vt5gYY",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "RedThunder",
+                "value": "n:468642||p_89/RedThunder",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ARedThunder&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_7&ds=v1%3Ax5nRY9LDw5q%2BRqLS%2BoKBhvJX6pobJ2uTP84sc2yq41w",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "SnpurdiriZIYOU LANGHPBlueFingerXINMENGMFTEKCakce",
+                "value": "n:468642||undefined",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ASnpurdiri&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_8&ds=v1%3AWH4eeKtw6bU7NxJ2%2BlPUXCpGclUJAbyOyaQUiixmqVU",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Snpurdiri",
+                "value": "n:468642||p_89/Snpurdiri",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ASnpurdiri&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_8&ds=v1%3AWH4eeKtw6bU7NxJ2%2BlPUXCpGclUJAbyOyaQUiixmqVU",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "ZIYOU LANG",
+                "value": "n:468642||p_89/ZIYOU LANG",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3AZIYOU+LANG&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_9&ds=v1%3AheNm%2FRJF915qJhiXAoR%2FZz1WpOQg4Qug8LNjPguTIPU",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "HP",
+                "value": "n:468642||p_89/HP",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3AHP&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_10&ds=v1%3Atuwi6WQICf9XgVQO1f%2BtexiQoffSVm50M2quCX7zjRU",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "BlueFinger",
+                "value": "n:468642||p_89/BlueFinger",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ABlueFinger&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_11&ds=v1%3AWn%2BoTAuU4RQR%2FHTTeswDBmGl%2BPJsVpNxpRSjBooFtBA",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "XINMENG",
+                "value": "n:468642||p_89/XINMENG",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3AXINMENG&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_12&ds=v1%3ACJHNnIro73wxuemArrQHDrXCUg8QeumzAgohWS5aN6k",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "MFTEK",
+                "value": "n:468642||p_89/MFTEK",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3AMFTEK&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_13&ds=v1%3Awo4ktKa1PaEv%2BhG7zWJ4WXgBSzhjAKUn1ujAWkmOaQ0",
+                "refinement_display_name": "Brand"
+            },
+            {
+                "name": "Cakce",
+                "value": "n:468642||p_89/Cakce",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_89%3ACakce&dc&qid=1703914161&rnid=2528832011&ref=sr_nr_p_89_14&ds=v1%3Ab3r5DicyrqXbDy08k44xvFRGnajPntigDENRnASei20",
+                "refinement_display_name": "Brand"
+            }
+        ],
+        "connectivity_technology": [
+            {
+                "name": "Bluetooth",
+                "value": "n:402051011||p_n_feature_ten_browse-bin/24046668011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_ten_browse-bin%3A24046668011&dc&qid=1703914161&rnid=24046606011&ref=sr_nr_p_n_feature_ten_browse-bin_1&ds=v1%3A8yRtjxgpRelLU3WhGDCTuOgGsvJ9tM%2FqIB%2BR89hVUH0",
+                "refinement_display_name": "Connectivity Technology"
+            },
+            {
+                "name": "Micro USB",
+                "value": "n:402051011||p_n_feature_ten_browse-bin/24046671011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_ten_browse-bin%3A24046671011&dc&qid=1703914161&rnid=24046606011&ref=sr_nr_p_n_feature_ten_browse-bin_2&ds=v1%3AJuQjXvN3eU9sThBmHXVWSkxZJa4iDP66HR9gNZkXmB8",
+                "refinement_display_name": "Connectivity Technology"
+            },
+            {
+                "name": "RF",
+                "value": "n:402051011||p_n_feature_ten_browse-bin/24046672011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_ten_browse-bin%3A24046672011&dc&qid=1703914161&rnid=24046606011&ref=sr_nr_p_n_feature_ten_browse-bin_3&ds=v1%3AkVucZ%2B6BsHTWsK8MlFoU%2BkdO5FHc21BBKqBUJrOOJy0",
+                "refinement_display_name": "Connectivity Technology"
+            },
+            {
+                "name": "USB-A",
+                "value": "n:402051011||p_n_feature_ten_browse-bin/24046666011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_ten_browse-bin%3A24046666011&dc&qid=1703914161&rnid=24046606011&ref=sr_nr_p_n_feature_ten_browse-bin_4&ds=v1%3AQlNZzxHRH6W%2BpvYrClUZ4wa2YsB6ROy%2FrSHepS5lAhk",
+                "refinement_display_name": "Connectivity Technology"
+            },
+            {
+                "name": "USB-C",
+                "value": "n:402051011||p_n_feature_ten_browse-bin/24046670011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_ten_browse-bin%3A24046670011&dc&qid=1703914161&rnid=24046606011&ref=sr_nr_p_n_feature_ten_browse-bin_5&ds=v1%3AHlYOaf%2B9penMC5FQxFg5%2Fqt2RgjoR1p%2BHG4gxN8srpo",
+                "refinement_display_name": "Connectivity Technology"
+            },
+            {
+                "name": "Wi-Fi",
+                "value": "n:402051011||p_n_feature_ten_browse-bin/58126441011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_ten_browse-bin%3A58126441011&dc&qid=1703914161&rnid=24046606011&ref=sr_nr_p_n_feature_ten_browse-bin_6&ds=v1%3AEtDlhL9IYAMSvqQ82UEDMCsgKVxY2T7WiwtG%2Bg%2FNWIo",
+                "refinement_display_name": "Connectivity Technology"
+            },
+            {
+                "name": "Mini USB",
+                "value": "n:402051011||p_n_feature_ten_browse-bin/24046669011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_ten_browse-bin%3A24046669011&dc&qid=1703914161&rnid=24046606011&ref=sr_nr_p_n_feature_ten_browse-bin_7&ds=v1%3AlfmrivmWIP1E0j%2Bi00Yk%2BDzSPw76IQ%2F2UoOTqDm7TPg",
+                "refinement_display_name": "Connectivity Technology"
+            }
+        ],
+        "special_features": [
+            {
+                "name": "Backlit",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056474011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056474011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_1&ds=v1%3AIIq%2Fsaq3wJH970XQgJLnnII9ZinrUJphqwpUwdP9NgU",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Ergonomic",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056470011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056470011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_2&ds=v1%3AOdpul%2BxuxAZ0O1NvvP%2B6D%2FvAFlxirp%2F%2BGlTLNsh2lV8",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Foldable",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056477011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056477011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_3&ds=v1%3Azwyqcyhugo1SCXmf2e%2F1uyYMxUYsaaJv3yt62NZiF4E",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Hotkeys and Media Keys",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056486011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056486011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_4&ds=v1%3A%2B57oI0GCCK1O1aH4n3sfjHsrinJS08KyxScdesEG0qs",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Lightweight",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/78743210011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A78743210011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_5&ds=v1%3AuPiYo7JSYeX2a1biRgx4YF8JpdS3fYF%2FSSk7JnS3Sqo",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Rechargeable",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056479011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056479011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_6&ds=v1%3Akrhwfu8dzVLzCtWe9nicZhXiy8X5KD0bbxMBoaF7E0U",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Trackpad",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056478011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056478011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_7&ds=v1%3AVa%2FRrJviG8QfPMefLGN7H5L%2FXhVd2JuoxMtUBcjhwB8",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Customizable Display KeysIntegrated StandLaser ProjectionRound KeySpill ProofSplit Keyset DesignTransparent BaseVolume RollerWater ResistantWaterproofWrist Rest",
+                "value": "n:402051011||undefined",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056485011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_8&ds=v1%3AgD8Zstin9YuuUqsacFDax9xRU4517bEZbDsE3I965ag",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Customizable Display Keys",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056485011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056485011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_8&ds=v1%3AgD8Zstin9YuuUqsacFDax9xRU4517bEZbDsE3I965ag",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Integrated Stand",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056472011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056472011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_9&ds=v1%3A%2F81ASzB4EO9F4EGo9lCAOpXhEmAuLh5EuXgFO390yAQ",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Laser Projection",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056480011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056480011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_10&ds=v1%3A62m4UlpcvrqV7XDlGxsYNdylhwhS96hH5ilmkJjk8qM",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Round Key",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056484011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056484011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_11&ds=v1%3Af4M93e6R0j1xUkd8nk6PVZ%2Fl%2BHdtghlcgkbgF%2BpGAUo",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Spill Proof",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056471011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056471011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_12&ds=v1%3AIE6HHbEp56iCl7RcC5EXBQZ5ZZinTlpgnBUVWT4djdw",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Split Keyset Design",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056482011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056482011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_13&ds=v1%3AQNrfEGejdQRtDEWi%2FRyMRo0tnCG%2FM70dLxyEW4rWakA",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Transparent Base",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056475011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056475011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_14&ds=v1%3Awd4nHzOXqHIM4r%2Bp9elCT5wCM3%2B7knGOon5mDVoFWFg",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Volume Roller",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056473011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056473011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_15&ds=v1%3A8rRandueUy98KZkDj4%2FekzmXIsWgyY0Bdjd1Vhs7T6A",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Water Resistant",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056483011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056483011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_16&ds=v1%3ARu6w2BRG5N7plm0u1h9CpsTEiO7GLm4%2BXU3ZGv2pTLs",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Waterproof",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056481011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056481011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_17&ds=v1%3AS0fXQenAnbBzbu39wJaDCVFs6EpgalGcyVFmWTl%2BFt4",
+                "refinement_display_name": "Special Features"
+            },
+            {
+                "name": "Wrist Rest",
+                "value": "n:402051011||p_n_feature_eleven_browse-bin/24056476011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eleven_browse-bin%3A24056476011&dc&qid=1703914161&rnid=24056394011&ref=sr_nr_p_n_feature_eleven_browse-bin_18&ds=v1%3AaZyZ89XFSNaCJE8MiVJkQZ0%2BFY21fizODuZRwO4bjI8",
+                "refinement_display_name": "Special Features"
+            }
+        ],
+        "number_of_keys": [
+            {
+                "name": "Up to 70",
+                "value": "n:402051011||p_n_feature_fourteen_browse-bin/41943268011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fourteen_browse-bin%3A41943268011&dc&qid=1703914161&rnid=41941986011&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3ACbGGAcQtBsGs8wsDoSSmXmOpQFqzxzTHOO2fy8WZyUQ",
+                "refinement_display_name": "Number of Keys"
+            },
+            {
+                "name": "71 to 81",
+                "value": "n:402051011||p_n_feature_fourteen_browse-bin/41943270011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fourteen_browse-bin%3A41943270011&dc&qid=1703914161&rnid=41941986011&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3AAdwMRyz4uIXoF7tq6QUD%2BrQG%2BIjYbiratLADXNrptTk",
+                "refinement_display_name": "Number of Keys"
+            },
+            {
+                "name": "82 to 92",
+                "value": "n:402051011||p_n_feature_fourteen_browse-bin/41943269011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fourteen_browse-bin%3A41943269011&dc&qid=1703914161&rnid=41941986011&ref=sr_nr_p_n_feature_fourteen_browse-bin_3&ds=v1%3Ao6fCidnE%2BRrQ2Qp47o7NPfFyx9cLEIdfenPSvnxj07M",
+                "refinement_display_name": "Number of Keys"
+            },
+            {
+                "name": "93 & above",
+                "value": "n:402051011||p_n_feature_fourteen_browse-bin/41943267011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fourteen_browse-bin%3A41943267011&dc&qid=1703914161&rnid=41941986011&ref=sr_nr_p_n_feature_fourteen_browse-bin_4&ds=v1%3AAds0OtMqnF4uhm38EM8gp3N5lfu4oYedW54WZuHYXjg",
+                "refinement_display_name": "Number of Keys"
+            }
+        ],
+        "keyboard_backlighting_color_support": [
+            {
+                "name": "RGB",
+                "value": "n:402051011||p_n_feature_eight_browse-bin/24046379011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eight_browse-bin%3A24046379011&dc&qid=1703914161&rnid=24046340011&ref=sr_nr_p_n_feature_eight_browse-bin_1&ds=v1%3AH6igJjvXbZ0AnD6tBn%2FffRQy9EDBXOoHmyWj3JtWU9U",
+                "refinement_display_name": "Keyboard Backlighting Color Support"
+            },
+            {
+                "name": "Single Color",
+                "value": "n:402051011||p_n_feature_eight_browse-bin/24046378011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eight_browse-bin%3A24046378011&dc&qid=1703914161&rnid=24046340011&ref=sr_nr_p_n_feature_eight_browse-bin_2&ds=v1%3A0Er8%2Bqg42e7xMzKba1fXtaCXINWG0K68JM29%2Fac0ay8",
+                "refinement_display_name": "Keyboard Backlighting Color Support"
+            }
+        ],
+        "keyboard_operating_system": [
+            {
+                "name": "Chrome OS",
+                "value": "n:402051011||p_n_feature_five_browse-bin/23691227011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_five_browse-bin%3A23691227011&dc&qid=1703914161&rnid=23691214011&ref=sr_nr_p_n_feature_five_browse-bin_1&ds=v1%3AdcPUkhkjCLeD%2BFM8nzAVeNQqfE2fi87PibXuJKqfJ00",
+                "refinement_display_name": "Keyboard Operating System"
+            },
+            {
+                "name": "Linux",
+                "value": "n:402051011||p_n_feature_five_browse-bin/23691224011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_five_browse-bin%3A23691224011&dc&qid=1703914161&rnid=23691214011&ref=sr_nr_p_n_feature_five_browse-bin_2&ds=v1%3A65ZSnMFhOphfnV65dgkX20CYdLrrq4dWSved0cN9caM",
+                "refinement_display_name": "Keyboard Operating System"
+            },
+            {
+                "name": "Mac",
+                "value": "n:402051011||p_n_feature_five_browse-bin/23691225011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_five_browse-bin%3A23691225011&dc&qid=1703914161&rnid=23691214011&ref=sr_nr_p_n_feature_five_browse-bin_3&ds=v1%3Axivfs50XJu99z3bUZlg%2FlSoVriW1zNf84vJzkg%2BARjs",
+                "refinement_display_name": "Keyboard Operating System"
+            },
+            {
+                "name": "Windows",
+                "value": "n:402051011||p_n_feature_five_browse-bin/23691228011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_five_browse-bin%3A23691228011&dc&qid=1703914161&rnid=23691214011&ref=sr_nr_p_n_feature_five_browse-bin_4&ds=v1%3AZLIO1JmozWujBOemAmyc3n9e1zwTz%2FndwpOXEgd6y9w",
+                "refinement_display_name": "Keyboard Operating System"
+            }
+        ],
+        "style": [
+            {
+                "name": "Classic",
+                "value": "n:402051011||p_n_feature_twelve_browse-bin/24677089011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twelve_browse-bin%3A24677089011&dc&qid=1703914161&rnid=24676547011&ref=sr_nr_p_n_feature_twelve_browse-bin_1&ds=v1%3AniuHhQid88tNG1tx%2Bf5VTu3MIbYQZgN8KnpXYwzfnVs",
+                "refinement_display_name": "Style"
+            },
+            {
+                "name": "Contemporary",
+                "value": "n:402051011||p_n_feature_twelve_browse-bin/24677088011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twelve_browse-bin%3A24677088011&dc&qid=1703914161&rnid=24676547011&ref=sr_nr_p_n_feature_twelve_browse-bin_2&ds=v1%3AvsyDwUBYcWN5mS7jMDbML%2Fv7F0%2FiZWl8C%2Fs6yw4lqrY",
+                "refinement_display_name": "Style"
+            },
+            {
+                "name": "Retro",
+                "value": "n:402051011||p_n_feature_twelve_browse-bin/24677090011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twelve_browse-bin%3A24677090011&dc&qid=1703914161&rnid=24676547011&ref=sr_nr_p_n_feature_twelve_browse-bin_3&ds=v1%3AxLR3CJdVatcTmjwND99RD7OSKLIBcvtu46lLbFxR%2FEQ",
+                "refinement_display_name": "Style"
+            },
+            {
+                "name": "Steampunk",
+                "value": "n:402051011||p_n_feature_twelve_browse-bin/24677086011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twelve_browse-bin%3A24677086011&dc&qid=1703914161&rnid=24676547011&ref=sr_nr_p_n_feature_twelve_browse-bin_4&ds=v1%3AFfc0w9LjEBSScB5nVLAIMZ3TOCHpcK9unWy6YrSd9ds",
+                "refinement_display_name": "Style"
+            }
+        ],
+        "recommended_uses_for_product": [
+            {
+                "name": "Business",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011932011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011932011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_1&ds=v1%3AzEczlruLmtUe83WrtuQOJp9gDb9Afr3N6DrKrozkMkk",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Education",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011927011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011927011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_2&ds=v1%3ACmkuKb9IHsqrGHV5l2mCC2PQeF5pUt%2FSnJnIAlwDhaA",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Everyday Use",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011930011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011930011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_3&ds=v1%3Awv%2BEqop%2FEpjc%2BNKlEEi68Y9Hpt04uFRfVdrbYz%2FT6yw",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Gaming",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011924011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011924011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_4&ds=v1%3AW61bKEC%2FlfHFvs9WEmKvp3Mbm%2FnQ4E%2F0XrV7BMbVPpU",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Multimedia",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011926011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011926011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_5&ds=v1%3ArUMTCwLWY9dp6Wkg6Bx6yAtcecpFB8hxcWbPy7EP%2B%2B4",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Personal",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011928011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011928011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_6&ds=v1%3AX1kFsd%2FkaPkzMsvuBQ19XgUZe93mZZ4lEeu0%2Bn2A3kM",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Photo Editing",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011925011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011925011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_7&ds=v1%3A%2BTaqgvA9IeFTmJk52Cbl60SZcnByEiV0VxYAx3BrYAM",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "ProgrammingStudentVideo Editing",
+                "value": "n:402051011||undefined",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011931011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_8&ds=v1%3AwAaXcWZA965BZvCfPogIGqrDicnFW2dBARH7WI6Ptec",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Programming",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011931011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011931011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_8&ds=v1%3AwAaXcWZA965BZvCfPogIGqrDicnFW2dBARH7WI6Ptec",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Student",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011933011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011933011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_9&ds=v1%3AskTd1Nuv6HpuW5q24dl1eFG9K%2FzXUZVD%2FT89R6Yrj7Q",
+                "refinement_display_name": "Recommended Uses For Product"
+            },
+            {
+                "name": "Video Editing",
+                "value": "n:402051011||p_n_feature_fifteen_browse-bin/116011929011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_fifteen_browse-bin%3A116011929011&dc&qid=1703914161&rnid=116011923011&ref=sr_nr_p_n_feature_fifteen_browse-bin_10&ds=v1%3APlBZ7E8JSIoyXk0aHGLFpK9t191zo3x79hU3b7fGywA",
+                "refinement_display_name": "Recommended Uses For Product"
+            }
+        ],
+        "included_components": [
+            {
+                "name": "Keycap Puller",
+                "value": "n:402051011||p_n_feature_seven_browse-bin/23883937011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_seven_browse-bin%3A23883937011&dc&qid=1703914161&rnid=23883920011&ref=sr_nr_p_n_feature_seven_browse-bin_1&ds=v1%3A4cSVRfB1ClDKA0DGQUZ4%2BX0PxZJUb5fyIoc41IqZ%2FFQ",
+                "refinement_display_name": "Included Components"
+            },
+            {
+                "name": "USB Cable",
+                "value": "n:402051011||p_n_feature_seven_browse-bin/23883938011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_seven_browse-bin%3A23883938011&dc&qid=1703914161&rnid=23883920011&ref=sr_nr_p_n_feature_seven_browse-bin_2&ds=v1%3AYykY4QurQaVuFb%2B6AxRFmRotov7o4I%2BYKH8y%2FIMOLeg",
+                "refinement_display_name": "Included Components"
+            }
+        ],
+        "number_of_batteries": [
+            {
+                "name": "1",
+                "value": "n:402051011||p_n_feature_seventeen_browse-bin/116422828011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_seventeen_browse-bin%3A116422828011&dc&qid=1703914161&rnid=116422767011&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3AiKPDR6iK3b1gKeTNJLfex2wcu2WLr90Fzt4TJZrm4QI",
+                "refinement_display_name": "Number of Batteries"
+            },
+            {
+                "name": "2",
+                "value": "n:402051011||p_n_feature_seventeen_browse-bin/116422827011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_seventeen_browse-bin%3A116422827011&dc&qid=1703914161&rnid=116422767011&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3A%2FCE%2Bc1hH45ZEDmZ7GjoP3j8bzQD6AZn%2BNpNO8h%2Btm%2FE",
+                "refinement_display_name": "Number of Batteries"
+            }
+        ],
+        "theme": [
+            {
+                "name": "Candy",
+                "value": "n:402051011||p_n_feature_thirteen_browse-bin/24677096011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_thirteen_browse-bin%3A24677096011&dc&qid=1703914161&rnid=24676548011&ref=sr_nr_p_n_feature_thirteen_browse-bin_1&ds=v1%3AVOxDEI7INh3CRdUGtcDIv3Tek4pvTyKkOQB%2FXfaRqgE",
+                "refinement_display_name": "Theme"
+            },
+            {
+                "name": "Christmas",
+                "value": "n:402051011||p_n_feature_thirteen_browse-bin/88212300011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_thirteen_browse-bin%3A88212300011&dc&qid=1703914161&rnid=24676548011&ref=sr_nr_p_n_feature_thirteen_browse-bin_2&ds=v1%3A%2Bm1Dn8YIhtPX7d6f1nJxwtiWsiedoIcG9RIyf7Sukdg",
+                "refinement_display_name": "Theme"
+            },
+            {
+                "name": "Honeycomb",
+                "value": "n:402051011||p_n_feature_thirteen_browse-bin/24677091011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_thirteen_browse-bin%3A24677091011&dc&qid=1703914161&rnid=24676548011&ref=sr_nr_p_n_feature_thirteen_browse-bin_3&ds=v1%3AwFkfaqw%2B5pyRNhChCVXIqhnwquwIMo5KUiNBmrQ9ZJ8",
+                "refinement_display_name": "Theme"
+            },
+            {
+                "name": "Rainbow",
+                "value": "n:402051011||p_n_feature_thirteen_browse-bin/24677095011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_thirteen_browse-bin%3A24677095011&dc&qid=1703914161&rnid=24676548011&ref=sr_nr_p_n_feature_thirteen_browse-bin_4&ds=v1%3AxFO3KW76FJ%2ByMEMH%2BPs6kT3k%2Bi8BXJprxgVPPNRa9GU",
+                "refinement_display_name": "Theme"
+            }
+        ],
+        "item_height_surface_to_top": [
+            {
+                "name": "Up to 1 in",
+                "value": "n:402051011||p_n_feature_nineteen_browse-bin/119068502011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_nineteen_browse-bin%3A119068502011&dc&qid=1703914161&rnid=119068441011&ref=sr_nr_p_n_feature_nineteen_browse-bin_1&ds=v1%3Amh%2F0kn2qDUbrT5KK1eRY3ceqkvKs%2BqY%2FwqeUyRYwY4U",
+                "refinement_display_name": "Item Height Surface To Top"
+            },
+            {
+                "name": "1 to 1.9 in",
+                "value": "n:402051011||p_n_feature_nineteen_browse-bin/119068505011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_nineteen_browse-bin%3A119068505011&dc&qid=1703914161&rnid=119068441011&ref=sr_nr_p_n_feature_nineteen_browse-bin_2&ds=v1%3Aq5H9IxkkPAZ%2FIZ7Jph6aEt7MG9xOiJ8JnFIvpEhi5k4",
+                "refinement_display_name": "Item Height Surface To Top"
+            },
+            {
+                "name": "2 to 2.9 in",
+                "value": "n:402051011||p_n_feature_nineteen_browse-bin/119068504011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_nineteen_browse-bin%3A119068504011&dc&qid=1703914161&rnid=119068441011&ref=sr_nr_p_n_feature_nineteen_browse-bin_3&ds=v1%3A86VT4XqmXffA3M6BgIVDUPEqznyE20L%2B5b2x8a8NfsU",
+                "refinement_display_name": "Item Height Surface To Top"
+            },
+            {
+                "name": "3 in & above",
+                "value": "n:402051011||p_n_feature_nineteen_browse-bin/119068503011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_nineteen_browse-bin%3A119068503011&dc&qid=1703914161&rnid=119068441011&ref=sr_nr_p_n_feature_nineteen_browse-bin_4&ds=v1%3AWDtnu3mkXQEuJJj2SmOrcDEoNIGq5wWfrR4L66yNSMA",
+                "refinement_display_name": "Item Height Surface To Top"
+            }
+        ],
+        "item_length_longer_edge": [
+            {
+                "name": "Up to 9.9 in",
+                "value": "n:402051011||p_n_feature_twenty_browse-bin/119068507011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twenty_browse-bin%3A119068507011&dc&qid=1703914161&rnid=119068442011&ref=sr_nr_p_n_feature_twenty_browse-bin_1&ds=v1%3Afx%2BqgpFz09J6WjtcBcFPf1NyR1tmDFDYDJqotho48w0",
+                "refinement_display_name": "Item Length Longer Edge"
+            },
+            {
+                "name": "10 to 11.9 in",
+                "value": "n:402051011||p_n_feature_twenty_browse-bin/119068509011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twenty_browse-bin%3A119068509011&dc&qid=1703914161&rnid=119068442011&ref=sr_nr_p_n_feature_twenty_browse-bin_2&ds=v1%3AzLnUlCFhIe%2BB1vt9gdukHE1wPULAAdo1Tf%2FT3QPhp%2Bo",
+                "refinement_display_name": "Item Length Longer Edge"
+            },
+            {
+                "name": "12 to 13.9 in",
+                "value": "n:402051011||p_n_feature_twenty_browse-bin/119068508011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twenty_browse-bin%3A119068508011&dc&qid=1703914161&rnid=119068442011&ref=sr_nr_p_n_feature_twenty_browse-bin_3&ds=v1%3AwhoiE9up%2FM51spNCNL55a6oEj9oZ15eNKpnC93vOo%2BE",
+                "refinement_display_name": "Item Length Longer Edge"
+            },
+            {
+                "name": "14 in & above",
+                "value": "n:402051011||p_n_feature_twenty_browse-bin/119068506011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_twenty_browse-bin%3A119068506011&dc&qid=1703914161&rnid=119068442011&ref=sr_nr_p_n_feature_twenty_browse-bin_4&ds=v1%3AY3xuyMAzQ%2BVax124%2FifQokwKpDR6DzCvfv1SNBIxeUI",
+                "refinement_display_name": "Item Length Longer Edge"
+            }
+        ],
+        "item_width_shorter_edge": [
+            {
+                "name": "Up to 3.9 in",
+                "value": "n:402051011||p_n_feature_eighteen_browse-bin/119068501011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eighteen_browse-bin%3A119068501011&dc&qid=1703914161&rnid=119068440011&ref=sr_nr_p_n_feature_eighteen_browse-bin_1&ds=v1%3AwPtE%2F57l89q%2BobMZmsgz6uWj570Q9fOworD27zb5yzY",
+                "refinement_display_name": "Item Width Shorter Edge"
+            },
+            {
+                "name": "4 to 4.9 in",
+                "value": "n:402051011||p_n_feature_eighteen_browse-bin/119068498011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eighteen_browse-bin%3A119068498011&dc&qid=1703914161&rnid=119068440011&ref=sr_nr_p_n_feature_eighteen_browse-bin_2&ds=v1%3AX7uXaLgz6fIRitGVNccyYBFIpByTthAex%2BrELLpN0l4",
+                "refinement_display_name": "Item Width Shorter Edge"
+            },
+            {
+                "name": "5 to 5.9 in",
+                "value": "n:402051011||p_n_feature_eighteen_browse-bin/119068500011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eighteen_browse-bin%3A119068500011&dc&qid=1703914161&rnid=119068440011&ref=sr_nr_p_n_feature_eighteen_browse-bin_3&ds=v1%3ADi%2FKTsgN8GmJWyaegAMIvxQWuScf%2BPGPG7Z0K%2BtNwO4",
+                "refinement_display_name": "Item Width Shorter Edge"
+            },
+            {
+                "name": "6 in & above",
+                "value": "n:402051011||p_n_feature_eighteen_browse-bin/119068499011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_eighteen_browse-bin%3A119068499011&dc&qid=1703914161&rnid=119068440011&ref=sr_nr_p_n_feature_eighteen_browse-bin_4&ds=v1%3AG0KYm4fqWmFi8CXE87Q%2F9suBHYT%2FZjssoOq2%2BwxSGDw",
+                "refinement_display_name": "Item Width Shorter Edge"
+            }
+        ],
+        "hand_orientation": [
+            {
+                "name": "Ambidextrous",
+                "value": "n:402051011||p_n_feature_six_browse-bin/23738334011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_six_browse-bin%3A23738334011&dc&qid=1703914161&rnid=23738328011&ref=sr_nr_p_n_feature_six_browse-bin_1&ds=v1%3AgttZ80BKeyi0cynShPhqOsSc%2Fdu18ZO9FEDyc1vSgTg",
+                "refinement_display_name": "Hand Orientation"
+            },
+            {
+                "name": "Left",
+                "value": "n:402051011||p_n_feature_six_browse-bin/23738335011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_six_browse-bin%3A23738335011&dc&qid=1703914161&rnid=23738328011&ref=sr_nr_p_n_feature_six_browse-bin_2&ds=v1%3A8tC%2BSyA6jnl%2FstNu3L278sA2Y0Wct%2FTTyDKysz%2BGjvI",
+                "refinement_display_name": "Hand Orientation"
+            },
+            {
+                "name": "Right",
+                "value": "n:402051011||p_n_feature_six_browse-bin/23738333011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A402051011%2Cp_n_feature_six_browse-bin%3A23738333011&dc&qid=1703914161&rnid=23738328011&ref=sr_nr_p_n_feature_six_browse-bin_3&ds=v1%3A8GWRSa%2F3rorX%2BTrgi4001oAMhHns%2BsqxwAyfHJkYTrg",
+                "refinement_display_name": "Hand Orientation"
+            }
+        ],
+        "new_releases": [
+            {
+                "name": "Last 90 days",
+                "value": "n:468642||p_n_date/1249089011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_n_date%3A1249089011&dc&qid=1703914161&rnid=1249087011&ref=sr_nr_p_n_date_1&ds=v1%3Al89GWAsGIUSDAMMUrEwKFsgqa%2FTkMc4H5qO9c00l0Wk",
+                "refinement_display_name": "New Releases"
+            }
+        ],
+        "business_type": [
+            {
+                "name": "Small Business",
+                "value": "p_n_sb_certificate_id/98614993011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=p_n_sb_certificate_id%3A98614993011&dc&qid=1703914161&rnid=98614992011&ref=sr_nr_p_n_sb_certificate_id_1&ds=v1%3AuhMwhwkQgbtGjARpP%2FyVT7FR7jIhLQQLkUPBY0AyYMA",
+                "refinement_display_name": "Business Type"
+            }
+        ],
+        "packaging_option": [
+            {
+                "name": "Frustration-Free Packaging",
+                "value": "n:468642||p_n_is_ffp/7252855011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_n_is_ffp%3A7252855011&dc&qid=1703914161&rnid=7252854011&ref=sr_nr_p_n_is_ffp_1&ds=v1%3AUKmfrnoAvwam56Cru08hIZ1p87lHrJs7g98aaX89gng",
+                "refinement_display_name": "Packaging Option"
+            }
+        ],
+        "amazon_global_store": [
+            {
+                "name": "Amazon Global Store",
+                "value": "p_n_is-global-store-asin/16354393011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=p_n_is-global-store-asin%3A16354393011&dc&qid=1703914161&rnid=16354392011&ref=sr_nr_p_n_is-global-store-asin_1&ds=v1%3AwVCxwzEXcjf3HS6qJnnQvlFp%2B9YzC6qstLjDT%2FtAqZc",
+                "refinement_display_name": "Amazon Global Store"
+            }
+        ],
+        "international_shipping": [
+            {
+                "name": "International Shipping Eligible",
+                "value": "p_n_shipping_option-bin/3242350011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=p_n_shipping_option-bin%3A3242350011&dc&qid=1703914161&rnid=2944662011&ref=sr_nr_p_n_shipping_option-bin_1&ds=v1%3A6DeMgH2yRqQBckLsN9IX51%2F7Oj7rYssb6grcKKQ3Pe8",
+                "refinement_display_name": "International Shipping"
+            }
+        ],
+        "condition": [
+            {
+                "name": "New",
+                "value": "n:468642||p_n_condition-type/2224366011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_n_condition-type%3A2224366011&dc&qid=1703914161&rnid=2224364011&ref=sr_nr_p_n_condition-type_1&ds=v1%3AiYHotjpHIMN73%2FsRhFDcVC5l3jA6rwDYJOemFk86n7E",
+                "refinement_display_name": "Condition"
+            },
+            {
+                "name": "Used",
+                "value": "n:468642||p_n_condition-type/2224368011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=n%3A468642%2Cp_n_condition-type%3A2224368011&dc&qid=1703914161&rnid=2224364011&ref=sr_nr_p_n_condition-type_2&ds=v1%3AIQiQT%2FVQxnQ%2B0oA4HbTUxiSIeFGiNRbDwdbvrFidlQ4",
+                "refinement_display_name": "Condition"
+            }
+        ],
+        "availability": [
+            {
+                "name": "Include Out of Stock",
+                "value": "p_n_availability/2661601011",
+                "link": "https://www.amazon.com/s?k=Gaming+Keyboard+and+Mouse+Set&rh=p_n_availability%3A2661601011&dc&qid=1703914161&rnid=2661599011&ref=sr_nr_p_n_availability_2&ds=v1%3AZPeNiewR%2Bd5XS60T%2FvkpVD2C2aaRBW9m8dPZnRXhIs0",
+                "refinement_display_name": "Availability"
+            }
+        ]
+    },
+    "ad_blocks": [
+        {
+            "campaign_id": "9031273900101",
+            "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/714c5118-e12b-4cbe-a483-b726c8b7eb42._CR0,0,1500,1500_AC_SX130_SY60_QL70_.png",
+            "background_image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e37ed41a-f6e8-4232-9d89-63217fcdfabb._CR0,0,2400,1256_SX507_QL70_.png",
+            "advertiser_id": "2637132260301",
+            "ad_id": "2637132260301",
+            "link": "https://aax-us-iad.amazon.com/x/c/RA5rGA0miky2PBJo9TLfaL0AAAGMuTLGfwEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICAjByOJ/https://www.amazon.com/stores/page/3BD10C3A-5655-49CD-8296-31F53BC3A927/?_encoding=UTF8&store_ref=SB_A08798482L5CG9AP1IC85&pd_rd_plhdr=t&aaxitk=1aa645bb98790ca390df69c806447be8&hsa_cr_id=9998220520501&lp_asins=B07TVK8WJP%2CB08GZP9C2W%2CB08GZQ4D44&lp_query=Gaming%20Keyboard%20and%20Mouse%20Set&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_bkgd&pd_rd_w=sCm6e&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=GTNuE&pd_rd_r=a21d18bc-1ab2-4744-acbf-f2a242f1c6bd",
+            "title": "Gaming Keyboard & Mouse Combos",
+            "store_link": "https://www.amazon.com/stores/page/3BD10C3A-5655-49CD-8296-31F53BC3A927/?_encoding=UTF8&store_ref=SB_A08798482L5CG9AP1IC85&pd_rd_plhdr=t&aaxitk=1aa645bb98790ca390df69c806447be8&hsa_cr_id=9998220520501&lp_asins=B07TVK8WJP%2CB08GZP9C2W%2CB08GZQ4D44&lp_query=Gaming%20Keyboard%20and%20Mouse%20Set&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_lsi4d_cta&pd_rd_w=sCm6e&content-id=amzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b%3Aamzn1.sym.417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_p=417820b0-80f2-4084-adb3-fb612550f30b&pf_rd_r=X0NDY7QKBYZC7EXE7BXH&pd_rd_wg=GTNuE&pd_rd_r=a21d18bc-1ab2-4744-acbf-f2a242f1c6bd",
+            "store_id": "3BD10C3A-5655-49CD-8296-31F53BC3A927",
+            "store_name": "Orzly",
+            "products": [
+                {
+                    "asin": "B07TVK8WJP",
+                    "link": "https://www.amazon.com/dp/B07TVK8WJP",
+                    "image": "https://m.media-amazon.com/images/I/71S-pQNQyIL._AC_SR160,134_QL70_.jpg",
+                    "is_prime": true,
+                    "price": {
+                        "symbol": "$",
+                        "value": 35.99,
+                        "currency": "USD",
+                        "raw": "$35.99"
+                    }
+                },
+                {
+                    "asin": "B08GZP9C2W",
+                    "link": "https://www.amazon.com/dp/B08GZP9C2W",
+                    "image": "https://m.media-amazon.com/images/I/71qxIhm8w6L._AC_SR160,134_QL70_.jpg",
+                    "is_prime": true,
+                    "price": {
+                        "symbol": "$",
+                        "value": 59.98,
+                        "currency": "USD",
+                        "raw": "$59.98"
+                    }
+                },
+                {
+                    "asin": "B08GZQ4D44",
+                    "link": "https://www.amazon.com/dp/B08GZQ4D44",
+                    "image": "https://m.media-amazon.com/images/I/71BPP0UaaqS._AC_SR160,134_QL70_.jpg",
+                    "is_prime": true,
+                    "price": {
+                        "symbol": "$",
+                        "value": 69.99,
+                        "currency": "USD",
+                        "raw": "$69.99"
+                    }
+                }
+            ]
+        }
+    ],
+    "video_blocks": [
+        {
+            "video_link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d90ef17-36e9-4188-8987-5102905fd588.mp4/productVideoOptimized.mp4",
+            "thumbnail_link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0d90ef17-36e9-4188-8987-5102905fd588.mp4/r/THUMBNAIL_1080P_FRAME_3_CAPTURE_2.JPG",
+            "campaign_id": "200031989854598",
+            "advertiser_id": "5667848802",
+            "has_audio": true
+        },
+        {
+            "video_link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72f287de-86a9-43a6-99c4-8e82ac1f5815.mp4/productVideoOptimized.mp4",
+            "thumbnail_link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/72f287de-86a9-43a6-99c4-8e82ac1f5815.mp4/r/THUMBNAIL_1080P_FRAME_3_CAPTURE_2.JPG",
+            "campaign_id": "300003812243006",
+            "advertiser_id": "478572628002",
+            "has_audio": true
+        }
+    ]
+}
